@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/css/main.0bfb56bb.css",
+    "main.js": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/js/main.cab3e829.js",
+    "static/js/787.4e508455.chunk.js": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/js/787.4e508455.chunk.js",
+    "static/media/03.jpg": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/media/03.abdc56c15a4c06a3f694.jpg",
+    "static/media/06.png": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/media/06.8fdcfb1a506a447ccf9d.png",
+    "static/media/04.jpg": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/media/04.db9df51062731a9719ab.jpg",
+    "static/media/01.jpg": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/media/01.def9ea5c6b0f59f45534.jpg",
+    "static/media/08.jpg": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/media/08.274bb72e84a1efcdbc1b.jpg",
+    "static/media/02.jpg": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/media/02.0d3c36332bb6d6c9648c.jpg",
+    "static/media/05.jpg": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/media/05.aa37d983a4b2d7ab9edb.jpg",
+    "static/media/07.jpg": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/media/07.bc0d8b6472472df4f174.jpg",
+    "index.html": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/index.html",
+    "main.0bfb56bb.css.map": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/css/main.0bfb56bb.css.map",
+    "main.cab3e829.js.map": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/js/main.cab3e829.js.map",
+    "787.4e508455.chunk.js.map": "/Ract-App-on-Bootstrab-Loaders-and-Carousles/static/js/787.4e508455.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bfb56bb.css",
+    "static/js/main.cab3e829.js"
+  ]
+}
