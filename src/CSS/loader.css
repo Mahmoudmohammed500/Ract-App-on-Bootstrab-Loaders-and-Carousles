@@ -1,0 +1,5 @@
+.loader {
+    position: relative;
+    top:250px;
+    transform: translateY(50%);
+}
